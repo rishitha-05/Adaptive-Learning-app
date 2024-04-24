@@ -1,0 +1,65 @@
+/* QuizPage.css */
+
+.quiz-page {
+    /* margin-top: 1000px; */
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Set the height of the body to the viewport height */
+    margin: 0; /* Remove default margin */
+}
+
+.quiz-content {
+    width: 1000px; 
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #fff; /* Optional: Add a background color to the content */
+    border-radius: 8px; /* Optional: Add rounded corners to the content */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow to the content */
+}
+
+
+.quiz-page input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.quiz-page ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.quiz-page li {
+    margin-bottom: 5px;
+}
+
+.quiz-page p {
+    margin-bottom: 10px;
+}
+
+.quiz-content {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 20px;
+    margin: 50px;
+}
+/* 
+.quiz-content form{
+    min-height: 210vh;
+} */
+
+.input_box{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
