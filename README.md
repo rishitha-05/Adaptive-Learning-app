@@ -60,5 +60,7 @@ To get started with this project, you'll need to follow these steps:
 
 
    #Github repository
-   https://github.com/rishitha-05/Adaptive-Learning-app"# Adaptive-learning-app" 
+ (https://github.com/rishitha-05/Adaptive-learning-app/)"# Adaptive-learning-app" 
+ client(master branch)
+ server(main branch)
 "# Adaptive-learning-app" 
